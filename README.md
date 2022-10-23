@@ -10,3 +10,7 @@ A client asked for a list of tradable cryptocurrencies and wants to be able to p
 * Cluster data using the K-means algorithm.
 * Determine the best number of centroids for K-means using the elbow curve.
 * Use PCA to limit features and speed up the model.
+
+## Results:
+
+### The imported DataFrame before cleaning, 1252 rows of data:
