@@ -1,4 +1,4 @@
-
+![Crypto_header](Crypocurrency.png)
 
 # Cryptocurrencies
 
@@ -16,3 +16,22 @@ A client asked for a list of tradable cryptocurrencies and wants to be able to p
 ## Results:
 
 ### The imported DataFrame before cleaning, 1252 rows of data:
+![Crypto](Resources/not_cleaned.png)
+
+### The list of tradable cryptocurrencies after cleaning, 532 rows of data:
+![Crypto](Resources/cleaned.png)
+
+### K-means Clustering Algorithm, Elbow Curve:
+![Crypto](Resources/bell_curve.png)
+
+### Applying the Principal Component Analysis:
+![Crypto](Resources/clustered_df.png)
+
+### 3D Scatterplot with Clusters, Visualizing Tradable Cryptocurrencies:
+![Crypto](Resources/3d_scatterplot.png)
+
+### DataFrame to plot results:
+![Crypto](Resources/dataframe_plot_results.png)
+
+### Tradable Cryptocurrencies:
+![Crypto](Resources/crypto_scatter_plot.png)
